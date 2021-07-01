@@ -3,8 +3,8 @@
 5R33CH4's Repositories are Aimed to help even people with literally no Knoledge on Programming !!!
 
 ## 5R33CH4's GitHub Profile
-Overview : https://github.com/5R33CH4 <br>
-Repositories : https://github.com/5R33CH4?tab=repositories
+Overview: https://github.com/DevClancy <br>
+Repositories: https://github.com/DevClancy?tab=repositories
 
 ## About 5R33CH4's Repositories
 5R33CH4's Repos mostly are based on hacking and learning.<br>
