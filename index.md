@@ -1,4 +1,4 @@
-## Welcome to DevClancy official website
+## DevClancy
 Gamehacker / Reverse engineer / Pentester
 
 ## DevClancy GitHub Profile
